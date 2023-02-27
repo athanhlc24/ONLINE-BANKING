@@ -20,7 +20,7 @@
                 <img src="/user/html/img/logo/Logo-2@2x.png" alt="">
             </div>
         </div>
-        <h2 class="head">Did You Know?</h2>
+        <h2 class="head">BẠN CÓ BIẾT KHÔNG?</h2>
         <p></p>
     </div>
 </div>

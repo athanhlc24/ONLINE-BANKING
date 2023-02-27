@@ -19,8 +19,8 @@
                             <img src="/user/html/img/feature/icon-5.png" alt="">
                         </div>
                         <div class="feature-content">
-                            <p>UP TO $5M</p>
-                            <h6>High Rang Loan</h6>
+                            <p>LÊN TỚI $5M</p>
+                            <h6>Cho vay cao cấp</h6>
                         </div>
                     </div>
                 </div>
@@ -39,8 +39,8 @@
                             <img src="/user/html/img/feature/icon-6.png" alt="">
                         </div>
                         <div class="feature-content">
-                            <p>FROM 7.50%</p>
-                            <h6>Offer Low Interest</h6>
+                            <p>Từ 7.50%</p>
+                            <h6>Khi gửi tiết kiệm</h6>
                         </div>
                     </div>
                 </div>
@@ -58,8 +58,8 @@
                             <img src="/user/html/img/feature/icon-7.png" alt="">
                         </div>
                         <div class="feature-content">
-                            <p>7 DAYS PROCESS</p>
-                            <h6>Fast & Easy Process</h6>
+                            <p>CHUYỂN VÀ NHẬN TIỀN</p>
+                            <h6>An toàn và bảo mật </h6>
                         </div>
                     </div>
                 </div>
