@@ -57,7 +57,7 @@
                                     href="mailto:thanhtvth2203024@fpt.edu.vn">thanhtvth2203024@fpt.edu.vn</a>
                             </li>
                             <li>
-                                <i class="fa-solid fa-right-to-bracket"></i><a href="#">Login</a>
+                                <i class="fa-solid fa-right-to-bracket"></i><a href="#">Đăng nhập</a>
                             </li>
                         </ul>
                     </div>
@@ -91,90 +91,57 @@
                     <ul class="navbar-nav menu ms-auto">
                         <li class="nav-item dropdown submenu ">
                             <a href="#" class="nav-link dropdown-toggle active" role="button"
-                               data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Home</a>
+                               data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Trang chủ</a>
                             <i class="arrow_carrot-down_alt2 mobile_dropdown_icon" aria-hidden="true"
                                data-bs-toggle="dropdown"></i>
-                            <ul class="dropdown-menu">
-                                <li class="nav-item "><a href="index.html" class="nav-link ">Demo 01</a>
-                                </li>
-                                <li class="nav-item "><a href="index-2.html" class="nav-link active">Demo 02</a>
-                                </li>
-                            </ul>
+{{--                            <ul class="dropdown-menu">--}}
+{{--                                <li class="nav-item "><a href="index.html" class="nav-link ">Demo 01</a>--}}
+{{--                                </li>--}}
+{{--                                <li class="nav-item "><a href="index-2.html" class="nav-link active">Demo 02</a>--}}
+{{--                                </li>--}}
+{{--                            </ul>--}}
                         </li>
                         <li class="nav-item dropdown submenu">
                             <a class="nav-link dropdown-toggle" href="loan.html" role="button"
                                data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                Loan
+                               Khoản vay
                             </a>
                             <i class="arrow_carrot-down_alt2 mobile_dropdown_icon" aria-hidden="false"
                                data-bs-toggle="dropdown"></i>
-
-                            <ul class="dropdown-menu">
-                                <li class="nav-item"><a class="nav-link" href="loan.html">Get loan</a></li>
-                                <li class="nav-item"><a class="nav-link" href="#" role="button"
-                                                        data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Loan
-                                        Application</a>
-                                    <i class="arrow_carrot-down_alt2 mobile_dropdown_icon" aria-hidden="false"
-                                       data-bs-toggle="dropdown"></i>
-
-                                    <ul class="dropdown-menu">
-                                        <li class="nav-item"><a class="nav-link" href="loan-details.html">Step
-                                                01</a></li>
-                                        <li class="nav-item"><a class="nav-link" href="personal-details.html">Step
-                                                02</a></li>
-                                        <li class="nav-item"><a class="nav-link" href="document-upload.html">Step
-                                                03</a></li>
-
-                                    </ul>
-                                </li>
-
-                            </ul>
                         </li>
                         <li class="nav-item dropdown submenu">
                             <a class="nav-link dropdown-toggle" href="career.html" role="button"
                                data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                Job Pages
+                                Chuyển khoản
                             </a>
                             <i class="arrow_carrot-down_alt2 mobile_dropdown_icon" aria-hidden="false"
                                data-bs-toggle="dropdown"></i>
-                            <ul class="dropdown-menu">
-                                <li class="nav-item"><a class="nav-link" href="career.html">Career</a></li>
-                                <li class="nav-item"><a class="nav-link" href="job-post.html">Jobs</a>
-                                </li>
-                                <li class="nav-item"><a class="nav-link" href="job-application.html">Job
-                                        Application</a>
-                                </li>
-                            </ul>
                         </li>
                         <li class="nav-item dropdown submenu">
                             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
                                aria-haspopup="true" aria-expanded="false">
-                                Pages
+                                Gửi tiết kiệm
                             </a>
                             <i class="arrow_carrot-down_alt2 mobile_dropdown_icon" aria-hidden="false"
                                data-bs-toggle="dropdown"></i>
-                            <ul class="dropdown-menu ">
-                                <li class="nav-item"><a class="nav-link" href="card.html">Cards</a></li>
-                                <li class="nav-item"><a class="nav-link" href="about.html">About Us</a></li>
-                                <li class="nav-item"><a class="nav-link" href="contact.html">Contact Us</a></li>
-                                <li class="nav-item"><a class="nav-link" href="error.html">404 Error</a></li>
-                            </ul>
+
                         </li>
                         <li class="nav-item dropdown submenu">
                             <a class="nav-link dropdown-toggle" href="blog.html" role="button"
                                data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                Blog
+                                Về chúng tôi
                             </a>
                             <i class="arrow_carrot-down_alt2 mobile_dropdown_icon" aria-hidden="false"
                                data-bs-toggle="dropdown"></i>
                             <ul class="dropdown-menu ">
-                                <li class="nav-item"><a class="nav-link" href="blog.html">Blog Listing</a></li>
-                                <li class="nav-item"><a class="nav-link" href="blog-details.html">Blog Details</a>
+                                <li class="nav-item"><a class="nav-link" href="blog.html">Giới thiệu</a></li>
+                                <li class="nav-item"><a class="nav-link" href="blog-details.html">Sự tin cậy</a>
+                                <li class="nav-item"><a class="nav-link" href="blog-details.html">An toàn và bảo mật</a>
                                 </li>
                             </ul>
                         </li>
                     </ul>
-                    <a class="theme-btn" href="loan.html">Get loan</a>
+                    <a class="theme-btn" href="loan.html">Nhận thêm khoản vay mới</a>
                 </div>
             </div>
         </nav>

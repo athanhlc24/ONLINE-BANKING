@@ -15,7 +15,7 @@
                 <div class="single-widget apply-online wow fadeInUp" data-wow-delay="0.1s">
                     <div class="widget-header">
                         <div class="widget-img">
-                            <img src="img/how-works/icon-1.png" alt="icon">
+                            <img src="/user/html/img/how-works/icon-1.png" alt="icon">
                         </div>
                         <div class="widget-title">
                             <h4>Apply Online</h4>
@@ -41,7 +41,7 @@
                 <div class="single-widget consultation wow fadeInUp" data-wow-delay="0.3s">
                     <div class="widget-header">
                         <div class="widget-img">
-                            <img src="img/how-works/icon-2.png" alt="icon">
+                            <img src="/user/html/img/how-works/icon-2.png" alt="icon">
                         </div>
                         <div class="widget-title">
                             <h4>Consultation</h4>

@@ -5,13 +5,13 @@
                 <div class="cta cta-bg-primary">
 
                     <div class="shapes">
-                        <img src="img/cta/icon-1.png" alt="shape">
-                        <img data-parallax='{"x": 150, "y": 0, "rotateZ":-0}' src="img/cta/icon-2.png"
+                        <img src="/user/html/img/cta/icon-1.png" alt="shape">
+                        <img data-parallax='{"x": 150, "y": 0, "rotateZ":-0}' src="/user/html/img/cta/icon-2.png"
                              alt="shape">
-                        <img src="img/cta/icon-3.png" alt="shape">
-                        <img src="img/cta/icon-4.png" alt="shape">
-                        <img src="img/cta/icon-5.png" alt="shape">
-                        <img data-parallax='{"x": 400, "y": 0, "rotateZ":0}' src="img/cta/icon-6.png"
+                        <img src="/user/html/img/cta/icon-3.png" alt="shape">
+                        <img src="/user/html/img/cta/icon-4.png" alt="shape">
+                        <img src="/user/html/img/cta/icon-5.png" alt="shape">
+                        <img data-parallax='{"x": 400, "y": 0, "rotateZ":0}' src="/user/html/img/cta/icon-6.png"
                              alt="shape">
                     </div>
 

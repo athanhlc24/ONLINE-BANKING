@@ -126,7 +126,7 @@
             </div>
             <div class="col-md-4 offset-lg-1 mt-4 mt-md-0 ps-lg-5">
                 <div class="faq-img">
-                    <img class="img-fluid" src="img/faq/illustration.png" alt="faq-image">
+                    <img class="img-fluid" src="/user/html/img/faq/illustration.png" alt="faq-image">
                 </div>
             </div>
         </div>

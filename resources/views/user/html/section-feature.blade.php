@@ -7,16 +7,16 @@
                          data-wow-delay="0.1s">
 
                         <div class="shapes">
-                            <img src="img/feature/shape-6.png" alt="shape">
-                            <img src="img/feature/shape-10.png" alt="shape">
-                            <img src="img/feature/shape-4.png" alt="shape">
-                            <img src="img/feature/shape-3.png" alt="shape">
-                            <img src="img/feature/shape-12.png" alt="shape">
-                            <img src="img/feature/shape-12.png" alt="shape">
+                            <img src="/user/html/img/feature/shape-6.png" alt="shape">
+                            <img src="/user/html/img/feature/shape-10.png" alt="shape">
+                            <img src="/user/html/img/feature/shape-4.png" alt="shape">
+                            <img src="/user/html/img/feature/shape-3.png" alt="shape">
+                            <img src="/user/html/img/feature/shape-12.png" alt="shape">
+                            <img src="/user/html/img/feature/shape-12.png" alt="shape">
                         </div>
 
                         <div class="feature-img">
-                            <img src="img/feature/icon-5.png" alt="">
+                            <img src="/user/html/img/feature/icon-5.png" alt="">
                         </div>
                         <div class="feature-content">
                             <p>UP TO $5M</p>
@@ -28,15 +28,15 @@
                     <div class="feature-widget-2 align-items-center wow fadeInRight feature-2"
                          data-wow-delay="0.3s">
                         <div class="shapes">
-                            <img src="img/feature/shape-13.png" alt="shape">
-                            <img src="img/feature/shape-14.png" alt="shape">
-                            <img src="img/feature/shape-15.png" alt="shape">
-                            <img src="img/feature/shape-11.png" alt="shape">
-                            <img src="img/feature/shape-12.png" alt="shape">
-                            <img src="img/feature/shape-5.png" alt="shape">
+                            <img src="/user/html/img/feature/shape-13.png" alt="shape">
+                            <img src="/user/html/img/feature/shape-14.png" alt="shape">
+                            <img src="/user/html/img/feature/shape-15.png" alt="shape">
+                            <img src="/user/html/img/feature/shape-11.png" alt="shape">
+                            <img src="/user/html/img/feature/shape-12.png" alt="shape">
+                            <img src="/user/html/img/feature/shape-5.png" alt="shape">
                         </div>
                         <div class="feature-img">
-                            <img src="img/feature/icon-6.png" alt="">
+                            <img src="/user/html/img/feature/icon-6.png" alt="">
                         </div>
                         <div class="feature-content">
                             <p>FROM 7.50%</p>
@@ -48,14 +48,14 @@
                     <div class="feature-widget-2 align-items-center wow fadeInRight feature-3"
                          data-wow-delay="0.5s">
                         <div class="shapes">
-                            <img src="img/feature/shape-1.png" alt="shape">
-                            <img src="img/feature/shape-2.png" alt="shape">
-                            <img src="img/feature/shape-6.png" alt="shape">
-                            <img src="img/feature/shape-9.png" alt="shape">
-                            <img src="img/feature/shape-11.png" alt="shape">
+                            <img src="/user/html/img/feature/shape-1.png" alt="shape">
+                            <img src="/user/html/img/feature/shape-2.png" alt="shape">
+                            <img src="/user/html/img/feature/shape-6.png" alt="shape">
+                            <img src="/user/html/img/feature/shape-9.png" alt="shape">
+                            <img src="/user/html/img/feature/shape-11.png" alt="shape">
                         </div>
                         <div class="feature-img">
-                            <img src="img/feature/icon-7.png" alt="">
+                            <img src="/user/html/img/feature/icon-7.png" alt="">
                         </div>
                         <div class="feature-content">
                             <p>7 DAYS PROCESS</p>
